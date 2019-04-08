@@ -105,10 +105,25 @@
     "onefx": "1.4.2",
     "styletron-engine-atomic": "^1.1.0",
     "@types/react": "^16.8.11",
-    "react": "^16.8.6"
+    "@types/graphql": "14.0.7",
+    "@types/node-fetch": "2.1.6",
+    "graphql": "14.1.1",
+    "react": "^16.8.6",
+    "antd": "^3.16.1",
+    "apollo-cache-inmemory": "1.5.1",
+    "apollo-client": "2.5.1",
+    "apollo-link-http": "1.5.12",
+    "graphql-tag": "2.10.1",
+    "isomorphic-unfetch": "3.0.0",
+    "react-apollo": "2.5.2"
   },
   "engines": {
     "node": "10.15.3",
     "npm": "6.9.0"
+  },
+  "dependencies": {
+    "@types/graphql": "^14.2.0",
+    "@types/node-fetch": "^2.3.0",
+    "graphql": "^14.2.1"
   }
 }
